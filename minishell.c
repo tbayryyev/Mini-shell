@@ -13,7 +13,6 @@
 #define MAXLINE 1024
 #define MAXARGS 128
 
-// I pledge my honor that I have abided by the Stevens Honor System.
 // Tahyr Bayryyev
 
 
